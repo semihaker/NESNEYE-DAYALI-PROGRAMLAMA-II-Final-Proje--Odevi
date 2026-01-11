@@ -1,0 +1,12 @@
+com\smartlibraryplus\entity\Book.class
+com\smartlibraryplus\dao\LoanDao.class
+com\smartlibraryplus\dao\BookDao.class
+com\smartlibraryplus\entity\Student.class
+com\smartlibraryplus\entity\Loan.class
+com\smartlibraryplus\entity\BookStatus.class
+com\smartlibraryplus\App.class
+com\smartlibraryplus\dialect\SQLiteIdentityColumnSupport.class
+com\smartlibraryplus\dialect\SQLiteDialect.class
+com\smartlibraryplus\util\HibernateUtil.class
+com\smartlibraryplus\dao\StudentDao.class
+com\smartlibraryplus\app\MainApp.class
